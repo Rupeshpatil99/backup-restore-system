@@ -20,11 +20,3 @@ This project automates backup and restore operations using Bash scripting and cr
 ### Run Backup
 ./backup.sh
 
-### Restore Backup
-./restore.sh <backup_file> <restore_directory>
-
-## ⏰ Cron Example
-0 2 * * * /path/to/backup.sh
-
-## 👨‍💻 Author
-Rupesh Patil backup-restore-system
